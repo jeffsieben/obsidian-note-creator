@@ -1,6 +1,8 @@
-# Obsidian Sample Plugin
+# Obsidian Fast Note Creator
 
-This is a sample plugin for Obsidian (https://obsidian.md).
+This is a community plugin for Obsidian (https://obsidian.md). It was created from the Obsidian Sample Plugin by timrogers (https://github.com/obsidianmd/obsidian-sample-plugin)
+
+The part below is from Tim's Sample, and not mine, but will try and review later. 
 
 This project uses Typescript to provide type checking and documentation.
 The repo depends on the latest plugin API (obsidian.d.ts) in Typescript Definition format, which contains TSDoc comments describing what it does.
